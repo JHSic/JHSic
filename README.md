@@ -1,6 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JHSic&show_icons=true&theme=radical)
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=joohoo621)](https://solved.ac/joohoo621)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJHSic&count_bg=%23FFFFFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **JHSic/JHSic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
