@@ -1,5 +1,4 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JHSic&show_icons=true&theme={theme})](https://github.com/JHSic/github-readme-stats)
-부캐 키우는 중
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=joohoo621)](https://solved.ac/joohoo621)
 
 <!--
